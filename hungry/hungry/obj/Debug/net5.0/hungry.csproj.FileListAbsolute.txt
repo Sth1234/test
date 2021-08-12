@@ -1,0 +1,16 @@
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.exe
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.deps.json
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.runtimeconfig.json
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.runtimeconfig.dev.json
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.dll
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\ref\hungry.dll
+C:\Users\HP\test\hungry\hungry\bin\Debug\net5.0\hungry.pdb
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.csproj.AssemblyReference.cache
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.AssemblyInfoInputs.cache
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.AssemblyInfo.cs
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.csproj.CoreCompileInputs.cache
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.dll
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\ref\hungry.dll
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.pdb
+C:\Users\HP\test\hungry\hungry\obj\Debug\net5.0\hungry.genruntimeconfig.cache
